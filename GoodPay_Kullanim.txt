@@ -1,0 +1,29 @@
+═══════════════════════════════════════════════════════════════
+  GoodPay - Basit GUI ile GoodbyeDPI Kullanımı
+═══════════════════════════════════════════════════════════════
+
+KURULUM:
+  1. Python yüklü olmalı (python.org)
+  2. goodpay_gui.py bu klasörde olmalı
+  3. x86 veya x86_64 klasörlerinde goodbyedpi.exe olmalı
+
+ÇALIŞTIRMA:
+  • GoodPay_GUI_Calistir.cmd dosyasına çift tıklayın
+  • Hizmet kurma/kaldırma için: Sağ tık → Yönetici olarak çalıştır
+
+ADIMLAR (Basit):
+  1. Metod seçin (Varsayılan önerilir)
+  2. "Hizmet Kur" → Otomatik çalışır, PC her açılışta aktif
+  3. Veya "Tek Seferlik Çalıştır" → Sadece şimdilik, pencere kapatınca durur
+  4. Kaldırmak için "Hizmet Kaldır"
+
+METODLAR:
+  • Varsayılan: En çok önerilen, Windows DNS değiştirmenize gerek yok
+  • Alternatif 2/4: Bazı siteler yavaşsa deneyin (README'de belirtildi)
+  • Alternatif 1,2,6: Windows'ta DNS'i manuel değiştirmeniz gerekir
+    (Yandex: 77.88.8.8 / Cloudflare: 1.1.1.1)
+
+ÖNEMLİ:
+  • Dosyaları orijinal klasörden TAŞIMAYIN
+  • Kaspersky antivirüs kullanmayın (çalışmaz)
+  • WinDivert dosyaları için klasörü antivirüs dışlamasına ekleyin
